@@ -1,0 +1,14 @@
+C:\Users\brenn\OneDrive\Área de Trabalho\Faculdade\Matérias\Bloco Desenvolvimento Back-end\Fundamentos de Desenvolvimento com C#\AT\Ex2\bin\Debug\net8.0\Ex2.exe
+C:\Users\brenn\OneDrive\Área de Trabalho\Faculdade\Matérias\Bloco Desenvolvimento Back-end\Fundamentos de Desenvolvimento com C#\AT\Ex2\bin\Debug\net8.0\Ex2.deps.json
+C:\Users\brenn\OneDrive\Área de Trabalho\Faculdade\Matérias\Bloco Desenvolvimento Back-end\Fundamentos de Desenvolvimento com C#\AT\Ex2\bin\Debug\net8.0\Ex2.runtimeconfig.json
+C:\Users\brenn\OneDrive\Área de Trabalho\Faculdade\Matérias\Bloco Desenvolvimento Back-end\Fundamentos de Desenvolvimento com C#\AT\Ex2\bin\Debug\net8.0\Ex2.dll
+C:\Users\brenn\OneDrive\Área de Trabalho\Faculdade\Matérias\Bloco Desenvolvimento Back-end\Fundamentos de Desenvolvimento com C#\AT\Ex2\bin\Debug\net8.0\Ex2.pdb
+C:\Users\brenn\OneDrive\Área de Trabalho\Faculdade\Matérias\Bloco Desenvolvimento Back-end\Fundamentos de Desenvolvimento com C#\AT\Ex2\obj\Debug\net8.0\Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brenn\OneDrive\Área de Trabalho\Faculdade\Matérias\Bloco Desenvolvimento Back-end\Fundamentos de Desenvolvimento com C#\AT\Ex2\obj\Debug\net8.0\Ex2.AssemblyInfoInputs.cache
+C:\Users\brenn\OneDrive\Área de Trabalho\Faculdade\Matérias\Bloco Desenvolvimento Back-end\Fundamentos de Desenvolvimento com C#\AT\Ex2\obj\Debug\net8.0\Ex2.AssemblyInfo.cs
+C:\Users\brenn\OneDrive\Área de Trabalho\Faculdade\Matérias\Bloco Desenvolvimento Back-end\Fundamentos de Desenvolvimento com C#\AT\Ex2\obj\Debug\net8.0\Ex2.csproj.CoreCompileInputs.cache
+C:\Users\brenn\OneDrive\Área de Trabalho\Faculdade\Matérias\Bloco Desenvolvimento Back-end\Fundamentos de Desenvolvimento com C#\AT\Ex2\obj\Debug\net8.0\Ex2.dll
+C:\Users\brenn\OneDrive\Área de Trabalho\Faculdade\Matérias\Bloco Desenvolvimento Back-end\Fundamentos de Desenvolvimento com C#\AT\Ex2\obj\Debug\net8.0\refint\Ex2.dll
+C:\Users\brenn\OneDrive\Área de Trabalho\Faculdade\Matérias\Bloco Desenvolvimento Back-end\Fundamentos de Desenvolvimento com C#\AT\Ex2\obj\Debug\net8.0\Ex2.pdb
+C:\Users\brenn\OneDrive\Área de Trabalho\Faculdade\Matérias\Bloco Desenvolvimento Back-end\Fundamentos de Desenvolvimento com C#\AT\Ex2\obj\Debug\net8.0\Ex2.genruntimeconfig.cache
+C:\Users\brenn\OneDrive\Área de Trabalho\Faculdade\Matérias\Bloco Desenvolvimento Back-end\Fundamentos de Desenvolvimento com C#\AT\Ex2\obj\Debug\net8.0\ref\Ex2.dll
